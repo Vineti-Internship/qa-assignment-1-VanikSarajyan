@@ -17,16 +17,14 @@
         <th>Status</th>
     </tr>
     <tr>
-        <td rowsapn="2">Check the Shipping Calculator</td>
-        <td rowspan="2">Check when Entering Valid Input</td>
+        <td rowsapn="3">Check the Shipping Calculator</td>
+        <td rowspan="3">Check when Entering Valid Input</td>
         <td>a</td>
         <td>a</td>
         <td>a</td>
         <td>a</td>
         <td>a</td>
     </tr>
-        <td>Check the Shipping Calculator</td>
-        <td>Check when Entering Valid Input</td>
         <td>a</td>
         <td>a</td>
         <td>a</td>
@@ -34,8 +32,6 @@
         <td>a</td>
     <tr>
     </tr>
-        <td>Check the Shipping Calculator</td>
-        <td>Check when Entering Valid Input</td>
         <td>a</td>
         <td>a</td>
         <td>a</td>
