@@ -25,8 +25,22 @@
         <td>a</td>
         <td>a</td>
     </tr>
+        <td>Check the Shipping Calculator</td>
+        <td>Check when Entering Valid Input</td>
+        <td>a</td>
+        <td>a</td>
+        <td>a</td>
+        <td>a</td>
+        <td>a</td>
     <tr>
-        <td>stuff</td>
-        <td>stuff</td>
+    </tr>
+        <td>Check the Shipping Calculator</td>
+        <td>Check when Entering Valid Input</td>
+        <td>a</td>
+        <td>a</td>
+        <td>a</td>
+        <td>a</td>
+        <td>a</td>
+    <tr>
     </tr>
 </table>
