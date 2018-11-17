@@ -8,16 +8,25 @@
 
 <table>
     <tr>
-        <th>Col 1</th>
-        <th>Col 2</th>
-        <th>Col 3</th>
+        <th>Test Scenarion</th>
+        <th>Test Case</th>
+        <th>Test Steps</th>
+        <th>Test Data</th>
+        <th>Expected Result</th>
+        <th>Actual Result</th>
+        <th>Status</th>
     </tr>
     <tr>
-        <td colspan="2">span 2 cols</td>
-        <td rowspan="2">span 2 rows</td>
+        <td rowsapn="2">Check the Shipping Calculator</td>
+        <td rowspan="2">Check when Entering Valid Input</td>
+        <td>a</td>
+        <td>a</td>
+        <td>a</td>
+        <td>a</td>
+        <td>a</td>
     </tr>
     <tr>
         <td>stuff</td>
         <td>stuff</td>
     </tr>
-</table>​
+</table>
