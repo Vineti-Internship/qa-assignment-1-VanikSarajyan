@@ -17,7 +17,7 @@
         <th>Status</th>
     </tr>
     <tr>
-        <td rowsapn="3">Check the Shipping Calculator</td>
+        <td rowspan="3">Check the Shipping Calculator</td>
         <td rowspan="3">Check when Entering Valid Input</td>
         <td>a</td>
         <td>a</td>
