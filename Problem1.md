@@ -30,7 +30,7 @@
         <td>pass</td>  
     </tr>
     <tr>
-        <td>Counrty: USA(new) <br> Type: Personal Parcel <br> Method: Ship <br> Parameters: 0-10kg</td>
+        <td>Counrty: USA(new) <br> Type: Personal Parcel <br> Method: Ship <br> Parameters: from 0 to 10kg</td>
         <td>25 USD</td>
         <td>25 USD</td>
         <td>pass</td>  
@@ -43,8 +43,8 @@
         <td>fail</td> 
     </tr>
     <tr>
-        <td>Counrty: China <br> Type: Online <br> Method: Air <br> Parameters: 6-3kg</td>
-        <td>12000 AMD</td>
+        <td>Counrty: China <br> Type: Online <br> Method: Air <br> Parameters: (6-3)kg</td>
+        <td>12000 AMD / Inform About Wrong Character</td>
         <td>400 AMD</td>
         <td>fail</td> 
     </tr>
@@ -55,9 +55,9 @@
         <td>fail</td> 
     </tr>
     <tr>
-        <td>Counrty: USA <br> Type: Online <br> Method: Air <br> Parameters: -3kg</td>
-        <td>0 AMD</td>
-        <td>400 AMD</td>
+        <td>Counrty: Great Britain <br> Type: Online <br> Method: Air <br> Parameters: 20000kg</td>
+        <td>Inform About Overweight</td>
+        <td>80000000 AMD</td>
         <td>fail</td> 
     </tr>
     
