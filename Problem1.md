@@ -18,8 +18,8 @@
     </tr>
     <tr>
         <td rowspan="4">Check the Shipping Calculator</td>
-        <td rowspan="4">Check when Entering Valid Input</td>
-        <td rowspan="4"> 1.Choose country<br> 2.Choose shipping type<br> 3.Choose shipping method <br> 4.Enter parcel parameters</td>
+        <td rowspan="200">Check when Entering Valid Input</td>
+        <td width="200"rowspan="4"> 1.Choose country<br> 2.Choose shipping type<br> 3.Choose shipping method <br> 4.Enter parcel parameters</td>
         <td>Country: USA <br> Type: Online <br> Method: Air <br> Parameters: 10kg</td>
         <td>35000 AMD</td>
         <td>35000 AMD</td>
