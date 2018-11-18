@@ -48,17 +48,5 @@
         <td>400 AMD</td>
         <td>fail</td> 
     </tr>
-    <tr>
-        <td>Counrty: USA <br> Type: Online <br> Method: Air <br> Parameters: -3kg</td>
-        <td>0 AMD</td>
-        <td>400 AMD</td>
-        <td>fail</td> 
-    </tr>
-    <tr>
-        <td>Counrty: USA <br> Type: Online <br> Method: Air <br> Parameters: -3kg</td>
-        <td>0 AMD</td>
-        <td>400 AMD</td>
-        <td>fail</td> 
-    </tr>
     
 </table>
