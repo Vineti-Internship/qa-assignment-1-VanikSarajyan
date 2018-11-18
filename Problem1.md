@@ -25,10 +25,10 @@
         <td>35000 AMD</td>
         <td>pass</td>
     </tr>
-        <td>a</td>
-        <td>a</td>
-        <td>a</td>
-        <td>a</td>
+        <td>Counrty: China <br> Type: Online <br> Method: Air <br> Parameters: 3kg</td>
+        <td>12000 AMD</td>
+        <td>12000 AMD</td>
+        <td>pass</td>
     <tr>
     </tr>
         <td>a</td>
