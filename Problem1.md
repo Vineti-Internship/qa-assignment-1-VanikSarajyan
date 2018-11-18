@@ -38,20 +38,20 @@
     <tr>
         <td rowspan="4">Check when Entering Invalid Input </td>
         <td>Counrty: USA <br> Type: Online <br> Method: Air <br> Parameters: -3kg</td>
-        <td>0 AMD</td>
+        <td>Inform About Invalid Input</td>
         <td>400 AMD</td>
         <td>fail</td> 
     </tr>
     <tr>
-        <td>Counrty: USA <br> Type: Online <br> Method: Air <br> Parameters: -3kg</td>
-        <td>0 AMD</td>
+        <td>Counrty: China <br> Type: Online <br> Method: Air <br> Parameters: 6-3kg</td>
+        <td>12000 AMD</td>
         <td>400 AMD</td>
         <td>fail</td> 
     </tr>
     <tr>
-        <td>Counrty: USA <br> Type: Online <br> Method: Air <br> Parameters: -3kg</td>
-        <td>0 AMD</td>
-        <td>400 AMD</td>
+        <td>Counrty: Russia <br> Type: Online <br> Method: Air <br> Parameters: none</td>
+        <td>0 AMD / Inform About Empty Fields</td>
+        <td>2000 AMD</td>
         <td>fail</td> 
     </tr>
     <tr>
