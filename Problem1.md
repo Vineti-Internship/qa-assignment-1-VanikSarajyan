@@ -1,6 +1,6 @@
 <table>
     <tr>
-        <th>Test Scenarion</th>
+        <th>Test Scenario</th>
         <th>Test Case</th>
         <th>Test Steps</th>
         <th>Test Data</th>
@@ -12,7 +12,7 @@
         <td width="120" rowspan="8">Check the Shipping Calculator</td>
         <td width="150" rowspan="4">Check when Entering Valid Input</td>
         <td width="250" rowspan="8"> 1.Choose country<br> 2.Choose shipping type<br> 3.Choose shipping method <br> 4.Enter parcel parameters</td>
-        <td width="150" >Country: USA <br> Type: Online <br> Method: Air <br> Parameters: 10kg</td>
+        <td width="180" >Country: USA <br> Type: Online <br> Method: Air <br> Parameters: 10kg</td>
         <td>35000 AMD</td>
         <td>35000 AMD</td>
         <td>pass</td>
